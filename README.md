@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khokhani9099" target="blank"><img src="https://img.shields.io/twitter/follow/khokhani9099?logo=twitter&style=for-the-badge" alt="khokhani9099" /></a> </p>
 
-- 🔭 I’m currently working on **- Developing a full-stack web application using React and Node.js. - Exploring the latest trends in machine learning and artificial intelligence.**
+- 🔭 I’m currently working on **- Developing a full-stack web application using React and Python. - Exploring the latest trends in machine learning and artificial intelligence.**
 
 - 🌱 I’m currently learning **- Enhancing my knowledge of cloud computing and serverless architectures. - Diving deeper into natural language processing (NLP) techniques.**
 

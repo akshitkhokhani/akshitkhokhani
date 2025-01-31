@@ -24,7 +24,7 @@
 
 I’m a developer driven by the mission to build actionable AI solutions rather than just replicating human conversation. My journey has taken me from launching impactful non-profit projects to architecting robust AI pipelines and full-stack systems.
 
-- 🔭 **Current Role:** Building innovative AI solutions at [Klippie AI](https://www.linkedin.com/company/klippie-ai/)
+- 🔭 **Current Role:** Building innovative AI solutions at [Klippie AI](https://www.getklippie.com)
 - 🌱 **Currently Exploring:** Advanced reinforcement learning & self-correcting AI systems
 - 💡 **Fun Fact:** I believe in **"Build Fast, Deploy Fast, Onboard Fast"** — because innovation waits for no one!
 

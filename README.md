@@ -91,7 +91,7 @@ Whether you’re interested in collaboration, discussing AI innovations, or just
 
 - **LinkedIn:** [Akshit Khokhani](https://www.linkedin.com/in/akshit-khokhani)
 - **GitHub:** [akshitkhokhani](https://github.com/akshitkhokhani)
-- **Email:** [your-email@example.com](mailto:your-email@example.com) *(Replace with your email)*
+- **Email:** [akshitkhokhani20@gmail.com](mailto:akshitkhokhani20@gmail.com) *(Replace with your email)*
 
 ---
 

@@ -73,17 +73,6 @@ Here are a few of my projects that showcase my work in AI, Python, and full-stac
   <img src="https://img.shields.io/badge/Achievement-YOLO-brightgreen?style=for-the-badge" alt="YOLO"/>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitkhokhani&show_icons=true&theme=radical" alt="Akshit's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitkhokhani&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 

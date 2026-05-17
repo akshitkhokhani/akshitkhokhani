@@ -1,191 +1,234 @@
-<!-- Akshit Khokhani Profile -->
 <div align="center">
 
-# 🚀 Akshit Khokhani
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Akshit+Khokhani;AI%2FML+Engineer+%26+Systems+Architect;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
 
-### **AI/ML Engineer | Production Systems Architect | LLM & Backend Specialist**
+---
 
-*Building enterprise-grade AI systems and scalable infrastructure that ships to production*
+### <img src="https://user-images.githubusercontent.com/74038190/216120038-01613f82-131d-426b-9936-6c188ba84ebc.gif" width="30"> Connect & Follow
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshitkhokhani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akshitkhokhani)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akshitkhokhani20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/akshitkhokhani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30)](https://github.com/akshitkhokhani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30)](mailto:akshitkhokhani20@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=akshitkhokhani&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212749879-6213e1ef-52ac-4271-8737-604b60b0763f.gif" width="30"> About Me
 
-I'm an AI/ML engineer and software architect with **4+ years** of hands-on experience shipping production systems. I specialize in:
-
-- 🤖 **Generative AI & LLMs** — Building RAG systems, AI agents, and multimodal applications that handle real-world complexity
-- ���️ **Backend Architecture** — Designing scalable APIs, microservices, and distributed systems
-- ☁️ **Cloud Infrastructure** — AWS, Kubernetes, CI/CD pipelines that handle enterprise workloads
-- 📊 **ML Engineering** — From forecasting to computer vision, deploying models that solve business problems
-
-**Philosophy:** I don't build prototypes—I build systems that serve millions of requests and handle production edge cases.
+```python
+class AkshitKhokhani:
+    def __init__(self):
+        self.role = "AI/ML Engineer | Production Systems Architect"
+        self.expertise = ["Generative AI", "Backend Systems", "Cloud Infrastructure", "ML Engineering"]
+        self.philosophy = "Production → Scale → Impact"
+        self.status = "🚀 Shipping enterprise-grade AI systems"
+        
+    def build(self):
+        return {
+            "systems": "AI agents, RAG pipelines, distributed backends",
+            "scale": "1.6M+ images, 100k+ daily requests, 99.9% uptime",
+            "languages": ["Python", "Node.js", "PHP"],
+            "experience": "4+ years of production engineering"
+        }
+```
 
 ---
 
-## 💡 Core Competencies
+## <img src="https://user-images.githubusercontent.com/74038190/216120038-01613f82-131d-426b-9936-6c188ba84ebc.gif" width="30"> Tech Stack
 
-### 🤖 AI/ML Engineering
-```
-Generative AI:     GPT-4 • Gemini • LangChain • RAG Pipelines • AI Agents
-ML Models:         XGBoost • LightGBM • Prophet • ARIMA • Transformers
-Multimodal:        Vision • Speech Recognition • Text Processing
-Deployment:        Docker • Kubernetes • Model Serving • Vector Databases
-Frameworks:        PyTorch • TensorFlow • Scikit-learn • Hugging Face
-```
+<div align="center">
+
+### 🤖 AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🛠️ Backend & APIs
-```
-Languages:         Python • Node.js • PHP
-Frameworks:        FastAPI • Flask • Django REST Framework • Express.js
-Architecture:      Microservices • REST APIs • Event-Driven Systems
-Data Pipelines:    Apache Airflow • ETL Design • Batch Processing
-Databases:         PostgreSQL • AWS Athena • Redis • Vector Search
-```
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### Current: TOGA Technology
+**Software Developer** | *Jun 2025 – Present*
+
 ```
-Cloud Providers:   AWS • Azure • Cloud-Native Architecture
-AWS Services:      EC2 • S3 • Lambda • CodePipeline • CodeDeploy • RDS
-Containerization:  Docker • Docker Compose • Kubernetes • Helm
-CI/CD:             GitHub Actions • CodePipeline • Automated Testing
-Infrastructure:    IaC • Networking • Security Best Practices
+✓ Enterprise REST APIs (Node.js & PHP)
+✓ AWS Infrastructure Management
+✓ CI/CD Pipeline Automation
+✓ 100k+ daily requests @ 99.9% uptime
 ```
 
-### 📈 Data & Analytics
+</td>
+<td width="50%">
+
+### Recent: Klippie LLC
+**AI/ML Engineer** | *Jan 2025 – Jun 2025*
+
 ```
-Data Processing:   Apache Airflow • Pandas • NumPy • Spark
-Databases:         PostgreSQL • AWS Athena • MongoDB • DynamoDB
-Search & Indexing: OpenSearch • Elasticsearch • Vector Databases
-Monitoring:        CloudWatch • DataDog • ELK Stack • Grafana
+✓ Time-series Forecasting (Prophet, XGBoost)
+✓ ETL Pipeline Design (Airflow, AWS Athena)
+✓ Multimodal AI Systems
+✓ 94%+ forecast accuracy
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Rejoicehub LLP
+**AI/ML Engineer** | *Dec 2021 – Jun 2022*
+
+```
+✓ Recommendation Systems
+✓ NLP Pipeline Development
+✓ Graph Neural Networks
+✓ 4.2x engagement improvement
+```
+
+</td>
+<td width="50%">
+
+### Education
+**M.S. Computer Science** | *NYIT (2023-2024)*
+**B.Tech Computer Engineering** | *UKA Tarsadia*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Impact |
+|---------|-------------|-----------|--------|
+| **🤖 AI Virtual Agent** | Multimodal AI with GPT-4/Gemini | FastAPI • LangChain • PostgreSQL | 10k+ concurrent users |
+| **🔍 AI Search Engine** | Semantic search @ 1.6M+ images | Python • OpenSearch • CLIP | 50ms query latency |
+| **⚙️ API Automation** | Enterprise workflow orchestration | Node.js • PHP • AWS | 99.95% SLA |
+| **📊 Forecasting Engine** | Time-series ML system | Prophet • XGBoost • Airflow | 94%+ accuracy |
+| **🚀 CI/CD Pipeline** | Automated deployments | CodePipeline • CodeDeploy | Zero-downtime deploy |
+
+</div>
+
+---
+
+## 📊 Stats & Metrics
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│  PRODUCTION SYSTEMS ARCHITECT           │
+├─────────────────────────────────────────┤
+│  Experience:        4+ years            │
+│  Scale Served:      1.6M+ images        │
+│  Daily Requests:    100k+               │
+│  Uptime Record:     99.9% - 99.95%      │
+│  ML Accuracy:       94%+                │
+│  Deployments:       50+ production      │
+│  Data Processed:    Petabyte-scale      │
+│  Teams:             FastAPI • Node.js   │
+└─────────────────────────────────────────┘
+```
+
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120038-01613f82-131d-426b-9936-6c188ba84ebc.gif" width="25"> GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=akshitkhokhani&theme=tokyonight&hide_border=true)](https://github.com/akshitkhokhani)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitkhokhani&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akshitkhokhani)
+
+</div>
+
+---
+
+## 🎯 What I Build
+
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  AI Systems that Scale                              │
+│  ├─ LLM Applications & RAG Pipelines                 │
+│  ├─ Multimodal AI Agents                            │
+│  └─ Production ML Deployments                       │
+│                                                      │
+│  Backend Architecture                               │
+│  ├─ Microservices & APIs                            │
+│  ├─ Distributed Systems                             │
+│  └─ Data Pipelines at Scale                         │
+│                                                      │
+│  Cloud Infrastructure                               │
+│  ├─ AWS (EC2, S3, Lambda, RDS)                      │
+│  ├─ Kubernetes Orchestration                        │
+│  └─ CI/CD Automation                                │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🏢 Professional Experience
+## 🚀 Philosophy
 
-### **Software Developer — TOGA Technology** *(Jun 2025 – Present)*
-- Architecting and deploying REST APIs using **Node.js** and **PHP** for enterprise workflow automation
-- Designing scalable backend services handling complex system integrations
-- Building production cron-workers for email systems, background jobs, and real-time sync pipelines
-- Managing full AWS infrastructure stack: **EC2 instances**, **S3 buckets**, **CodePipeline**, **CodeDeploy**
-- Leading API validation, debugging, and comprehensive end-to-end system testing
-- Collaborating in high-velocity Agile sprints with continuous production deployments
+<div align="center">
 
-**Key Achievements:**
-- Reduced deployment time by 60% through CI/CD pipeline optimization
-- Built APIs serving 100k+ daily requests with 99.9% uptime
-- Implemented distributed worker system processing 1M+ background jobs/month
+<h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212749879-6213e1ef-52ac-4271-8737-604b60b0763f.gif" width="30">
+  Production. Scale. Impact.
+</h3>
 
----
+> Not building prototypes—**building systems that serve millions**, handle edge cases, and ship with confidence.
 
-### **AI/ML Engineer — Klippie LLC** *(Jan 2025 – Jun 2025)*
-- Engineered advanced forecasting systems using **ARIMA**, **Prophet**, and **XGBoost** for financial data
-- Designed and deployed ETL pipelines processing **petabyte-scale** datasets using **Airflow**, **AWS S3**, **Athena**
-- Developed reinforcement learning systems and transformer-based architectures for predictive analytics
-- Built multimodal AI systems integrating **speech**, **vision**, and **text** processing
-- Deployed containerized ML systems using **Docker** and **Kubernetes** on AWS/Azure infrastructure
+### Ship production-grade systems
+### Handle real-world complexity
+### Scale to enterprise demands
 
-**Key Achievements:**
-- Achieved 94% forecast accuracy on multi-step time-series predictions
-- Reduced data pipeline execution time from 8 hours to 45 minutes through optimization
-- Scaled ML inference to handle 50k+ predictions per minute
-
----
-
-### **AI/ML Engineer Intern — Klippie LLC** *(Mar 2024 – May 2024)*
-- Built sophisticated AI agents powered by **GPT-4** and **Gemini** APIs with multimodal capabilities
-- Designed end-to-end **RAG pipelines** using **LangChain** + vector databases for semantic search
-- Implemented ML classification and predictive analytics models for production use
-
----
-
-### **AI/ML Engineer — Rejoicehub LLP** *(Dec 2021 – Jun 2022)*
-- Engineered recommendation systems using **transformers** and **graph neural networks** at scale
-- Developed NLP pipelines for entity extraction, document classification, and semantic analysis
-- Built forecasting models using **Prophet** and **XGBoost** for demand prediction
-- Deployed enterprise AI systems on AWS with **Docker** and **Kubernetes** orchestration
-
-**Key Achievements:**
-- Recommendation system achieved 4.2x engagement improvement
-- Processed 5M+ documents daily through NLP pipeline
-- Reduced model inference latency from 2s to 200ms
-
----
-
-## 🚀 Featured Projects
-
-### **🤖 AI Virtual Agent Platform** — *Production System*
-Multimodal AI system supporting simultaneous text, speech, and vision interactions using GPT-4 and Gemini APIs.
-- **Tech Stack:** FastAPI • LangChain • OpenAI API • Gemini API • PostgreSQL • Docker • Kubernetes
-- **Impact:** Handles 10k+ concurrent users with sub-second response times
-
-### **🔍 AI Search Engine — 1.6M+ Images** — *Production System*
-Vector-based semantic search system processing millions of images with state-of-the-art embeddings.
-- **Tech Stack:** Python • OpenSearch • CLIP Embeddings • AWS S3 • FastAPI
-- **Performance:** 50ms average query latency, 99.99% availability
-- **Scale:** 1.6M+ indexed images, serving production traffic
-
-### **⚙️ Backend API Automation System** — *Enterprise Platform*
-Node.js/PHP-based workflow orchestration and system integration platform for enterprise clients.
-- **Tech Stack:** Node.js • Express.js • PHP • PostgreSQL • AWS CodePipeline • Redis
-- **Features:** Real-time job processing, webhook management, audit logging
-- **SLA:** 99.95% uptime serving enterprise customers
-
-### **🚀 AWS CI/CD Pipeline System** — *Infrastructure*
-Fully automated deployment pipeline with zero-downtime deployments and comprehensive monitoring.
-- **Tech Stack:** AWS CodePipeline • CodeDeploy • EC2 • CloudWatch • GitHub Actions
-- **Capability:** Automated testing, staging, and production deployments
-
-### **📊 ML Forecasting Engine** — *Data Science*
-Advanced time-series forecasting system combining ensemble methods and deep learning.
-- **Tech Stack:** Python • Prophet • XGBoost • ARIMA • TensorFlow • Apache Airflow
-- **Accuracy:** 94%+ accuracy on multi-step forecasts
-- **Scale:** Processing terabytes of time-series data monthly
-
----
-
-## 🎓 Education
-
-**M.S. Computer Science** — New York Institute of Technology *(2023 – 2024)*  
-**B.Tech Computer Engineering** — UKA Tarsadia University
-
----
-
-## 📊 By The Numbers
-
-| Metric | Achievement |
-|--------|-------------|
-| **Years of Experience** | 4+ years building production systems |
-| **Scale** | 1.6M+ indexed images, 100k+ daily requests |
-| **Uptime** | 99.9% – 99.95% on production systems |
-| **ML Accuracy** | 94%+ on forecasting models |
-| **Team Deployments** | 50+ production deployments |
-| **Data Processed** | Petabyte-scale data pipelines |
+</div>
 
 ---
 
 ## 🔗 Let's Connect
 
-I'm always interested in discussing production AI systems, backend architecture, and scalable infrastructure challenges.
+<div align="center">
 
-- **LinkedIn:** [akshitkhokhani](https://www.linkedin.com/in/akshitkhokhani)
-- **GitHub:** [@akshitkhokhani](https://github.com/akshitkhokhani)
-- **Email:** [akshitkhokhani20@gmail.com](mailto:akshitkhokhani20@gmail.com)
+**Open to discussing:**
+- Production AI systems & LLM applications
+- Scalable backend architecture
+- Cloud infrastructure & DevOps
+- AI/ML engineering challenges
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akshitkhokhani)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=flat-square&logo=gmail)](mailto:akshitkhokhani20@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/akshitkhokhani)
 
 ---
 
-<div align="center">
-
-### 🎯 Philosophy
-
-**Production. Scale. Impact.**
-
-*Not building prototypes—building systems that serve millions, handle edge cases, and ship with confidence.*
+<img src="https://user-images.githubusercontent.com/74038190/212749879-6213e1ef-52ac-4271-8737-604b60b0763f.gif" width="15"> **Last updated:** 2026 | Currently building @ TOGA Technology
 
 </div>

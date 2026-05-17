@@ -1,88 +1,137 @@
 <!-- Hi there! I'm Akshit Khokhani 👋 -->
-<h1 align="center">Hi, I'm Akshit Khokhani!</h1>
+<h1 align="center">Hi, I'm Akshit Khokhani</h1>
+
 <h3 align="center">
-  Developer passionate about solving complex real-world problems using AI and Python.
+Software Developer | AI/ML Engineer | Backend & Cloud Systems Builder
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshitkhokhani" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/akshitkhokhani" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:akshitkhokhani20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+I build production-grade AI systems, scalable backend infrastructure, and data-driven applications using Python, Node.js, and Cloud-native tools.
 </p>
 
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshitkhokhani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akshitkhokhani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:akshitkhokhani20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a developer driven by the mission to build actionable AI solutions rather than just replicating human conversation. My journey has taken me from launching impactful non-profit projects to architecting robust AI pipelines and full-stack systems.
+Software Developer & AI/ML Engineer with **4+ years of experience** building scalable backend systems, AI applications, and cloud-based data pipelines.
 
-- 🌱 **Currently Exploring:** Advanced reinforcement learning & self-correcting AI systems
-- 💡 **Fun Fact:** I believe in **"Build Fast, Deploy Fast, Onboard Fast"** — because innovation waits for no one!
+I focus on building **production-ready systems**, not just prototypes—combining AI/ML models with robust backend architecture and cloud infrastructure.
 
----
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br />
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <br />
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</div>
+- 🔭 Currently working on: AI systems, backend automation, and cloud-native architectures  
+- 🧠 Strong focus: LLMs, RAG pipelines, and production ML systems  
+- ⚙️ Love building: APIs, distributed systems, and data pipelines  
 
 ---
 
-## 🔥 Featured Repositories
+## 🛠️ Core Skills
 
-Here are a few of my projects that showcase my work in AI, Python, and full-stack development:
+**Backend & APIs**
+- Node.js, PHP, Python
+- FastAPI, Flask, Django REST Framework
+- REST API design, Cron jobs, system integration
 
-- **[full-stack-project](https://github.com/akshitkhokhani/full-stack-project)**  
-  *A full-stack solution built with Python – fresh updates just minutes ago!*
+**AI / ML Engineering**
+- Generative AI (GPT-4, Gemini)
+- RAG pipelines, LangChain
+- XGBoost, LightGBM, Prophet, ARIMA
+- Computer Vision (OpenCV)
 
-- **[pdfbot](https://github.com/akshitkhokhani/pdfbot)**  
-  *GPT-4 & LangChain Chatbot designed for interacting with large PDF documents.*
+**Cloud & DevOps**
+- AWS (EC2, S3, CodePipeline, CodeDeploy)
+- Docker, Kubernetes
+- CI/CD pipelines, Azure basics
 
-- **[graphologist-backend](https://github.com/akshitkhokhani/graphologist-backend)**  
-  *Backend project in Python that demonstrates robust API design and data processing.*
-
-*(Visit my [repositories](https://github.com/akshitkhokhani?tab=repositories) for more projects!)*
+**Data & Engineering**
+- PostgreSQL, AWS Athena
+- Apache Airflow (ETL pipelines)
+- Vector search systems, data validation
+- Postman, system testing
 
 ---
 
-## 🏆 Achievements & Highlights
+## 💼 Professional Experience
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Sharkx2-brightgreen?style=for-the-badge" alt="Pull Sharkx2"/>
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-brightgreen?style=for-the-badge" alt="Quickdraw"/>
-  <img src="https://img.shields.io/badge/Achievement-YOLO-brightgreen?style=for-the-badge" alt="YOLO"/>
-</div>
+### Software Developer — TOGA Technology (formerly Agilant Solutions Inc.)
+**Jun 2025 – Present**
+- Built and integrated REST APIs using Node.js and PHP for enterprise workflows
+- Designed backend services for workflow automation and system integrations
+- Developed cron-based workers for email systems, background jobs, and sync pipelines
+- Managed AWS infrastructure (EC2, S3, CI/CD via CodePipeline & CodeDeploy)
+- Performed API validation, debugging, and end-to-end system testing
+- Collaborated in Agile sprints and production deployments
 
+---
+
+### AI/ML Engineer — Klippie LLC
+**Jan 2025 – Jun 2025**
+- Built forecasting systems using ARIMA, Prophet, and XGBoost
+- Developed ETL pipelines using Airflow, AWS S3, and Athena
+- Worked on reinforcement learning and transformer-based AI systems
+- Built multimodal AI systems (speech, vision, text)
+- Deployed ML systems using Docker and Kubernetes on AWS/Azure
+
+---
+
+### AI/ML Engineer Intern — Klippie LLC
+**Mar 2024 – May 2024**
+- Built GPT-4 & Gemini-based AI agents for multimodal interaction
+- Designed RAG pipelines using LangChain + vector databases
+- Implemented ML models for classification and predictive analytics
+
+---
+
+### AI/ML Engineer — Rejoicehub LLP
+**Dec 2021 – Jun 2022**
+- Built recommendation systems using transformers and graph-based models
+- Developed NLP pipelines for entity extraction and document processing
+- Designed forecasting models using Prophet and XGBoost
+- Deployed scalable AI systems using AWS, Docker, Kubernetes
+
+---
+
+## 🔥 Featured Projects
+
+- **AI Virtual Agent Platform**  
+  Multimodal AI system using GPT-4/Gemini supporting text, speech, and vision inputs
+
+- **AI Search Engine (1.6M+ Images)**  
+  Vector-based semantic search system using embeddings + OpenSearch
+
+- **Backend API Automation System**  
+  Node.js/PHP-based workflow automation and integration platform
+
+- **AWS CI/CD Pipeline System**  
+  Automated deployment pipelines using CodePipeline + CodeDeploy
+
+---
+
+## 🎓 Education
+
+**M.S. Computer Science** — New York Institute of Technology (2023 – 2024)  
+**B.Tech Computer Engineering** — UKA Tarsadia University
+
+---
 
 ## 🌐 Connect With Me
 
-Whether you’re interested in collaboration, discussing AI innovations, or just want to say hi:
-
-- **LinkedIn:** [Akshit Khokhani](https://www.linkedin.com/in/akshit-khokhani)
-- **GitHub:** [akshitkhokhani](https://github.com/akshitkhokhani)
-- **Email:** [akshitkhokhani20@gmail.com](mailto:akshitkhokhani20@gmail.com) 
+- LinkedIn: https://www.linkedin.com/in/akshitkhokhani  
+- GitHub: https://github.com/akshitkhokhani  
+- Email: akshitkhokhani20@gmail.com  
 
 ---
 
 <p align="center">
-  <em>Crafted with ❤️ and a passion for building transformative AI solutions.</em>
+<b>Building AI systems that go from idea → production, not just demos.</b>
 </p>

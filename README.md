@@ -1,33 +1,37 @@
 # Akshit Khokhani
 
-I build AI and backend systems that people can actually depend on.
+**AI infrastructure · Backend systems · Open-source engineering**
 
-[LinkedIn](https://www.linkedin.com/in/akshitkhokhani) · [Email](mailto:akshitkhokhani20@gmail.com)
+I build the infrastructure that makes AI systems reliable: data pipelines, inference services, persistent state, and the APIs around them. I work from a reproducible problem to a tested implementation, then stay involved through review and integration.
 
-Hi, I'm Akshit. I like working on the part that comes after the demo—when an idea has to survive messy data, unreliable inputs, changing requirements, and real users.
+[LinkedIn](https://www.linkedin.com/in/akshitkhokhani) · [Email](mailto:akshitkhokhani20@gmail.com) · [Open-source contributions](https://github.com/pulls?q=is%3Apr+author%3Aakshitkhokhani+is%3Amerged+-user%3Aakshitkhokhani)
 
-My background spans machine learning, backend engineering, and cloud infrastructure. I've worked on forecasting, recommendation systems, document intelligence, APIs, and deployment workflows. Lately, I've been especially interested in making AI systems easier to evaluate, observe, and trust.
+## Selected merged contributions
 
-I care about technology that is useful before it is impressive.
+| Project | Contribution |
+| --- | --- |
+| **PyTorch TensorDict** | [Avoid unnecessary dataset reads when listing lazy HDF5 keys](https://github.com/pytorch/tensordict/pull/3208). |
+| **OpenClaw** | [Prevent duplicate CLI progress replies in session history](https://github.com/openclaw/openclaw/pull/177417). |
+| **Meta's Muse Gadget SDK** | [Keep rejected device registration from being treated as successful](https://github.com/facebookincubator/muse-gadget-sdk/pull/82). |
+| **REA** | [Honor JavaScript `module-sync` package exports](https://github.com/morluto/rea/pull/1361). |
 
-## What I'm working on
+## Larger contributions in progress
 
-I'm currently a Software Developer at TOGA Technology, where I work across backend services, AWS infrastructure, and deployment automation.
+- **[ComfyUI: persistent execution history](https://github.com/Comfy-Org/ComfyUI/pull/17330)** — retain completed workflow records across restarts, with retention controls, transactional deletion, and privacy-aware storage. **Open PR.**
+- **[Chroma: native sparse search](https://github.com/chroma-core/chroma/pull/7949)** — add exact sparse search to the embedded query path. **Draft PR.**
+- **[LanceDB: streaming checkpoint provenance](https://github.com/lancedb/lancedb/pull/4640)** — make checkpoint identity and restore compatibility explicit. **Draft PR.**
 
-Before that, I worked on forecasting and multimodal ML at Klippie, and on recommendation and NLP systems at Rejoicehub.
+## Projects I build
 
-## A few things I've built
+- **[zero-hour](https://github.com/akshitkhokhani/zero-hour)** — supply-chain incident triage for coding agents, connecting security advisories to dependency and file-level evidence.
+- **[Japanese OCR for RAG](https://github.com/akshitkhokhani/jp-ocr-rag)** — extract Japanese PDFs into traceable text for retrieval pipelines, processing large documents page by page.
 
-- [Japanese OCR for RAG](https://github.com/akshitkhokhani/jp-ocr-rag) — a page-by-page pipeline for turning large Japanese PDFs into clean, traceable text without exhausting memory.
-- [AI Coach](https://github.com/akshitkhokhani/AI-coach) — an experimental retrieval-backed application for supportive mental-health conversations, built with FastAPI, Streamlit, and Pinecone.
-- [MCP experiments](https://github.com/akshitkhokhani/mcp-test) — early explorations in connecting local tools for messaging, voice, and task automation.
+## Engineering focus
 
-Some of my professional work lives behind private repositories. The projects above are smaller, public examples of how I think: understand the failure modes, keep the architecture explainable, and make the result usable.
+My work spans machine learning, backend services, and cloud infrastructure: forecasting, recommendation systems, document intelligence, APIs, and deployment automation. I focus on correctness under failure, measurable performance, and compatibility with the systems people already use.
 
-## Tools I reach for
+**Tools:** Python, TypeScript/JavaScript, Go, FastAPI, PostgreSQL, AWS, Docker, and GitHub Actions.
 
-Python, FastAPI, Node.js, PostgreSQL, AWS, Docker, and GitHub Actions—plus whatever simpler tool fits the problem better.
+M.S. in Computer Science, New York Institute of Technology · B.Tech. in Computer Engineering, UKA Tarsadia University.
 
-I hold an M.S. in Computer Science from New York Institute of Technology and a B.Tech. in Computer Engineering from UKA Tarsadia University.
-
-If you're working on a difficult problem where AI has to meet a real system, I'd be glad to hear about it.
+Building AI infrastructure or working through a difficult systems problem? [Let's talk](mailto:akshitkhokhani20@gmail.com).

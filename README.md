@@ -21,6 +21,8 @@ I build the infrastructure that makes AI systems reliable: data pipelines, infer
 - **[Chroma: native sparse search](https://github.com/chroma-core/chroma/pull/7949)** — add exact sparse search to the embedded query path. **Draft PR.**
 - **[LanceDB: streaming checkpoint provenance](https://github.com/lancedb/lancedb/pull/4640)** — make checkpoint identity and restore compatibility explicit. **Draft PR.**
 
+- **[SkyPilot: Vast direct TCP ports](https://github.com/skypilot-org/skypilot/pull/11202)** — configure creation-time port mappings and discover provider-reported endpoints, preserving the legacy 8080 fallback. **Draft PR.**
+
 ## Projects I build
 
 - **[zero-hour](https://github.com/akshitkhokhani/zero-hour)** — supply-chain incident triage for coding agents, connecting security advisories to dependency and file-level evidence.

@@ -17,6 +17,7 @@ I build the infrastructure that makes AI systems reliable: data pipelines, infer
 
 ## Larger contributions in progress
 
+- **[SGLang: native gRPC health checks](https://github.com/sgl-project/sglang/pull/46665)** — add standard `Check` and `Watch` endpoints with shared, bounded probes of scheduler activity. **Open PR.**
 - **[ComfyUI: persistent execution history](https://github.com/Comfy-Org/ComfyUI/pull/17330)** — retain completed workflow records across restarts, with retention controls, transactional deletion, and privacy-aware storage. **Open PR.**
 - **[Chroma: native sparse search](https://github.com/chroma-core/chroma/pull/7949)** — add exact sparse search to the embedded query path. **Draft PR.**
 - **[LanceDB: streaming checkpoint provenance](https://github.com/lancedb/lancedb/pull/4640)** — make checkpoint identity and restore compatibility explicit. **Draft PR.**

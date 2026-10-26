@@ -11,7 +11,7 @@ I build the infrastructure that makes AI systems reliable: data pipelines, infer
 | Project | Contribution |
 | --- | --- |
 | **PyTorch TensorDict** | [Avoid unnecessary dataset reads when listing lazy HDF5 keys](https://github.com/pytorch/tensordict/pull/3208). |
-| **OpenClaw** | [Prevent duplicate CLI progress replies in session history](https://github.com/openclaw/openclaw/pull/177417). |
+| **OpenClaw** | [Wait for expired MCP session recovery on the next explicit call](https://github.com/openclaw/openclaw/pull/177427), without replaying the failed call; [prevent duplicate CLI progress replies in session history](https://github.com/openclaw/openclaw/pull/177417). |
 | **Meta's Muse Gadget SDK** | [Keep rejected device registration from being treated as successful](https://github.com/facebookincubator/muse-gadget-sdk/pull/82). |
 | **REA** | [Honor JavaScript `module-sync` package exports](https://github.com/morluto/rea/pull/1361). |
 

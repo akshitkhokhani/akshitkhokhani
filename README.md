@@ -22,6 +22,7 @@ I build the infrastructure that makes AI systems reliable: data pipelines, infer
 - **[LanceDB: streaming checkpoint provenance](https://github.com/lancedb/lancedb/pull/4640)** — make checkpoint identity and restore compatibility explicit. **Draft PR.**
 
 - **[SkyPilot: Vast direct TCP ports](https://github.com/skypilot-org/skypilot/pull/11202)** — configure creation-time port mappings and discover provider-reported endpoints, preserving the legacy 8080 fallback. **Draft PR.**
+- **[Dagster: multiprocess worker lifetime limits](https://github.com/dagster-io/dagster/pull/34355)** — add opt-in worker timeouts, confirming worker exit before retries or slot reuse. **Draft PR.**
 
 ## Projects I build
 
